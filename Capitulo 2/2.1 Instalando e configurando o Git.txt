@@ -1,0 +1,6 @@
+--> Configurações básicas
+É importante nos identificarmos para o Git, informando nosso nome e
+e-mail. Em um terminal, execute os comandos a seguir:
+$ git config --global user.name "Fulano da Silva"
+$ git config --global user.email fulanodasilva.git@gmail.com
+
